@@ -15,7 +15,7 @@ This project uses a Recurrent Neural Network (RNN) architecture to predict the f
 
 ## 🗂️ Dataset
 
-- Source: Tesla historical stock price CSV (Kaggle)
+- Source: [Tesla historical stock price CSV](https://www.kaggle.com/code/serkanp/tesla-stock-price-prediction)
 - Used Features: `Open`, `High`, `Low`, `Close`, `Volume`
 - Data Split: 70% Training / 30% Testing
 
@@ -33,6 +33,7 @@ This project uses a Recurrent Neural Network (RNN) architecture to predict the f
 
 ## 🚀 How to Run
 pip install -r requirements.txt
+
 python rnn_model.py
 
 ## ✍️ Author
